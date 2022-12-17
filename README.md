@@ -2,8 +2,9 @@
 1. Create a new datebase named **database_g18** in PhpMyAdmin 
 2. Import the sql file into your PhpMyAdmin
 3. Put the folder in your computer htdocs folder
-4. Activate Apache and MySQL in XAMPP.
-5. Try it.
+4. Set your PhpMyAdmin's hostname, username and password in **server.php**.
+5. Activate Apache and MySQL in XAMPP.
+6. Try it.
 
 ## Login Sample
 **Database Admin**
