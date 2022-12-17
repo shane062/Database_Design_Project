@@ -1,5 +1,5 @@
 # Steps
-1. Create a new datebase named **db_arngren** in PhpMyAdmin 
+1. Create a new datebase named **database_g18** in PhpMyAdmin 
 2. Import the sql file into your PhpMyAdmin
 3. Put the folder in your computer htdocs folder
 4. Activate Apache and MySQL in XAMPP.
